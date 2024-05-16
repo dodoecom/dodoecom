@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayishikd" alt="ayishikd" /></a> </p>
 
-- 🔭 I’m currently working on [PriceWise](https://github.com/AyishikD/PriceWise)
+- 🔭 I’m currently working on [ADeditor](https://github.com/AyishikD/ADeditor)
 
 - 🌱 I’m currently learning **NextJs, API**
 
